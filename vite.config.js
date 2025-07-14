@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   server: {
-    host: true,        // ← ini penting agar bisa diakses dari IP LAN
-    port: 3000         // ganti port kalau mau (misal: 3000)
+    host: true,        
+    port: 3000         
   }
 })
