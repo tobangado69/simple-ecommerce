@@ -5,7 +5,7 @@ START 14 juli 10:30 - END 14 juli 13:34
 
 ## Features
 
-- User authentication (login/register)
+- User authentication login
 - Browse available data packages
 - Purchase data packages
 - View transaction history
