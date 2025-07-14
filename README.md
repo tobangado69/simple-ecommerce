@@ -64,11 +64,16 @@ data-package-store/
 ├── public/
 ├── src/
 │   ├── components/
-│   │   ├── TransactionList.jsx  # Transaction management
-│   │   ├── Login.jsx            # User authentication
+│   │   ├── CustomerList.jsx        # List of customers
+│   │   ├── Packages.jsx            # List of available data packages
+│   │   ├── TransactionList.jsx     # Transaction management
 │   │   └── ...
+│   ├── pages/
+│   │   ├── DashboardPage.jsx       # Home page with package listings
+│   │   ├── LoginPage.jsx           # User login page
 │   ├── App.js
-│   └── index.js
+│   ├── index.js
+│   └── main.js
 ├── db.json                      # JSON Server database
 └── package.json
 ```
