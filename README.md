@@ -1,6 +1,7 @@
 # Data Package Store - Simple E-commerce
 
 A simple e-commerce application for buying data packages, managing transactions, and user authentication.
+START 14 juli 10:30 - END 14 juli 13:34
 
 ## Features
 
