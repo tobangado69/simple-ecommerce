@@ -32,7 +32,7 @@ START 14 juli 10:30 - END 14 juli 13:34
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/tobangado69/simple-ecommerce
    cd data-package-store
    ```
 
