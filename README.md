@@ -90,4 +90,4 @@ data-package-store/
 
 ## Note
 
-This project uses a local JSON Server as a mock backend. In a production environment, you would replace this with a real backend service.
+This project uses a local JSON Server as a mock backend. In a production environment, you would replace this with a real backend service.# simple-ecommerce
