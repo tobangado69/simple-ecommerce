@@ -55,7 +55,7 @@ START 14 juli 10:30 - END 14 juli 13:34
    yarn start
    ```
 
-5. Open your browser and navigate to `http://localhost:3000`
+5. Open your browser and navigate to `http://localhost:5173`
 
 ## Project Structure
 

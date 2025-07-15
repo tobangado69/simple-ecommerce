@@ -30,5 +30,24 @@
       "price": 45000
     }
   ],
-  "transactions": []
+  "transactions": [
+    {
+      "id": "0278",
+      "userId": "1",
+      "packageId": "2",
+      "date": "2025-07-14"
+    },
+    {
+      "id": "9f28",
+      "userId": "1",
+      "packageId": "1",
+      "date": "2025-07-14"
+    },
+    {
+      "id": "1e69",
+      "userId": "1",
+      "packageId": "1",
+      "date": "2025-07-14"
+    }
+  ]
 }
